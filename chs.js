@@ -159,6 +159,7 @@ var cnItems = {
     "Optical Interconnect Nexus": "光互连Nexus",
     "TRANSCENDENT BANDWIDTH MATRIX": "超越带宽矩阵",
     "Attain a bandwidth singularity, providing infinite bandwidth.": "实现带宽奇异性，提供无限带宽。",
+    "Singularity Bandwidth Core": "奇异带宽核心",
     "SINGULARITY BANDWIDTH CORE": "奇异带宽核心",
     "Transcendent Bandwidth Matrix": "超越带宽矩阵",
     "Converge toward a digital apex, achieving unparalleled integration capabilities boosting integration algorithms by 200%.": "向数字顶点聚合，实现无与伦比的集成能力，将集成算法提升200%。",
